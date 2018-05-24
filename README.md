@@ -8,6 +8,7 @@
 - **Learning Disentangled Representations from Grouped Observations** (2017), Diane Bouchacourt [[pdf]](https://arxiv.org/abs/1705.08841)
 - **Generative Adversarial Autoencoder Networks** (2018), Ngoc-Trung Tran [[pdf]](https://arxiv.org/abs/1803.08887v1)
 - **Variational Inference: A Review for Statisticians** (2018), David M. Blei [[pdf]](https://arxiv.org/pdf/1601.00670.pdf)
+- **InfoVAE: Information Maximizing Variational Autoencoders** (2017), Shengjia Zhao [[pdf]](https://arxiv.org/abs/1706.02262)
 - **Optimizing The Latent Space of Generative Networks** (2017), Armand Joulin [[pdf]](https://arxiv.org/abs/1707.05776v1)
 - **Understanding Disentangling in beta-VAE** (2017), Christopher P. Burgess [[pdf]](https://drive.google.com/file/d/0Bwy4Nlx78QCCNktVTFFMTUs4N2oxY295VU9qV25MWTBQS2Uw/view)
 - **beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework** (2017), Irina Higgins [[pdf]](https://openreview.net/forum?id=Sy2fzU9gl)
