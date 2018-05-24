@@ -1,4 +1,4 @@
-# On Manifolds, Representations and Autoencoders
+# Autoencoders, Manifolds and Representations
 
 ## Papers
 
@@ -22,6 +22,6 @@
 
 ## Libraries
 
-- **Disentangled Variational Autoencoders in PyTorch**[[GitHub]](https://github.com/Near32/PYTORCH_VAE)
+- **Disentangled Variational Autoencoders in PyTorch** [[GitHub]](https://github.com/Near32/PYTORCH_VAE)
 
-## Quotes
+# Autoencoders, Manifolds and Representations
