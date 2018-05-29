@@ -4,6 +4,7 @@
 
 - **Adversarial Autoencoders** (2018), Alireza Makhzani [[pdf]](https://arxiv.org/abs/1511.05644)
 - **Generative Adversarial Autoencoder Networks** (2018), Ngoc-Trung Tran [[pdf]](https://arxiv.org/abs/1803.08887v1)
+- **Learning Sparse Latent Representations With the Deep Copula Information Bottleneck** (2018), Aleksander Wieczorek, Mario Wieser [[pdf]](https://openreview.net/pdf?id=Hk0wHx-RW)
 - **Mapping a Manifold of Perceptual Observations** [[pdf]](http://web.mit.edu/cocosci/Papers/man_nips.pdf)
 - **On the Latent Space of Wasserstein Auto-Encoders** (2018), Paul Rubenstein [[pdf]](https://arxiv.org/abs/1802.03761)
 - **Progressive Growing of GANs for Improved Quality, Stability, and Variation** (2018), Samuli Laine [[pdf]](https://arxiv.org/abs/1710.10196)
