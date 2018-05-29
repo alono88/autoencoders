@@ -16,6 +16,7 @@
 - **InfoVAE: Information Maximizing Variational Autoencoders** (2017), Shengjia Zhao [[pdf]](https://arxiv.org/abs/1706.02262)
 - **JADE: Joint Autoencoders for Dis-Entanglement** (2017), Amir-Hossein Karimi [[pdf]](https://drive.google.com/file/d/0Bwy4Nlx78QCCVms5c1ZQdWlaWlNaZktKSERtay1JVUNHUVpR/view)
 - **Learning Disentangled Representations from Grouped Observations** (2017), Diane Bouchacourt [[pdf]](https://arxiv.org/abs/1705.08841)
+- **Learning Robust Features with Incremental Auto-Encoders** (2017), Donghui Wang [[pdf]](https://arxiv.org/abs/1705.09476)
 - **Optimizing The Latent Space of Generative Networks** (2017), Armand Joulin [[pdf]](https://arxiv.org/abs/1707.05776v1)
 - **PixelGAN Autoencoders** (2017), Alireza Makhzani [[pdf]](https://arxiv.org/abs/1706.00531)
 - **Quantifying the Effects of Enforcing Disentanglement on Variational Autoencoders** (2017), Momchil Peychev [[pdf]](https://drive.google.com/file/d/0Bwy4Nlx78QCCMDl4eDJYUzNCSFk2OGFTdEtXbHNkczJmQ1p3/view)
