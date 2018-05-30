@@ -48,6 +48,7 @@
 ## Videos
 
 - **From Deep Learning of Disentangled Representations to Higher-level Cognition** [[YouTube]](https://www.youtube.com/watch?v=Yr1mOzC93xs)
+- **Information Theory of Deep Learning** [[YouTube]](https://www.youtube.com/watch?v=FSfN2K3tnJU)
 - **The Sparse Manifold Transform** [[YouTube]](https://www.youtube.com/watch?v=C2_5QFQZGvM)
 
 ## Libraries
