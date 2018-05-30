@@ -26,6 +26,7 @@
 - **Attribute2Image: Conditional Image Generation from Visual Attributes** (2016), Xinchen Yan [[pdf]](https://arxiv.org/abs/1512.00570)
 - **Autoencoding beyond pixels using a learned similarity metric** (2016), Anders Larsen [[pdf]](https://arxiv.org/abs/1512.09300)
 - **Early Visual Concept Learning with Unsupervised Deep Learning** (2016), Irina Higgins [[pdf]](https://arxiv.org/abs/1606.05579)
+- **Generative Visual Manipulation on the Natural Image Manifold** (2016), Jun-Yan Zhu [[pdf]](https://www.philkr.net/papers/2016-10-01-eccv/2016-10-01-eccv.pdf)
 - **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** (2016), Xi Chen [[pdf]](https://arxiv.org/abs/1606.03657)
 - **Manifold Regularized Deep Neural Networks using Adversarial Examples** (2016), Taehoon Lee [[pdf]](https://arxiv.org/abs/1511.06381)
 - **Semantic Facial Expression Editing using Autoencoded Flow** (2016), Raymond Yeh [[pdf]](https://arxiv.org/abs/1611.09961)
