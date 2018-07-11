@@ -32,6 +32,7 @@
 - **Semantic Facial Expression Editing using Autoencoded Flow** (2016), Raymond Yeh [[pdf]](https://arxiv.org/abs/1611.09961)
 - **Spatial Transformer Networks** (2016), Max Jaderberg [[pdf]](https://arxiv.org/abs/1506.02025)
 - **Tutorial on Variational Autoencoders** (2016), Carl Doersch [[pdf]](https://arxiv.org/pdf/1606.05908.pdf)
+- **Unsupervised Cross-Domain Image Generation** (2016), Yaniv Taigman [[pdf]](https://arxiv.org/abs/1611.02200)
 - **Deep Convolutional Inverse Graphics Network** (2015), Tejas Kulkarni, Will Whitney [[pdf]](https://arxiv.org/abs/1503.03167)
 - **Auto-encoding Variational Bayes** (2014), Kingma [[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
 - **Representation Learning: A Review and New Perspectives** (2014), Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
@@ -40,9 +41,9 @@
 
 ## Blogs
 
-- **Introduction to autoencoders** (2018), Jeremy Jordan [[Link]](https://www.jeremyjordan.me/autoencoders/)
+- **Introduction to Autoencoders** (2018), Jeremy Jordan [[Link]](https://www.jeremyjordan.me/autoencoders/)
 - **Intuitively Understanding Variational Autoencoders** (2018), Irhum Shafkat [[Link]](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
-- **Variational autoencoders** (2018), Jeremy Jordan [[Link]](https://www.jeremyjordan.me/variational-autoencoders/)
+- **Variational Autoencoders** (2018), Jeremy Jordan [[Link]](https://www.jeremyjordan.me/variational-autoencoders/)
 - **Neural Networks, Manifolds, and Topology** (2014), Christopher Olah [[Link]](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 ## Videos
