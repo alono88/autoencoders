@@ -36,6 +36,7 @@
 - **Deep Convolutional Inverse Graphics Network** (2015), Tejas Kulkarni, Will Whitney [[pdf]](https://arxiv.org/abs/1503.03167)
 - **Auto-encoding Variational Bayes** (2014), Kingma [[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
 - **Representation Learning: A Review and New Perspectives** (2014), Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
+- **What Regularized Auto-Encoders Learn from the Data Generating Distribution** (2014), Guillaume Alain and Yoshua Bengio [pdf])(https://arxiv.org/pdf/1211.4246.pdf]
 - **Contractive Auto-Encoders** (2011), Salah Rifai [[pdf]](http://www.iro.umontreal.ca/~lisa/pointeurs/ICML2011_explicit_invariance.pdf)
 - **A Tutorial on Energy-Based Learning** (2006), Yann LeCun [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 
