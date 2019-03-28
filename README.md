@@ -8,6 +8,7 @@
 - **Mapping a Manifold of Perceptual Observations** [[pdf]](http://web.mit.edu/cocosci/Papers/man_nips.pdf)
 - **On the Latent Space of Wasserstein Auto-Encoders** (2018), Paul Rubenstein [[pdf]](https://arxiv.org/abs/1802.03761)
 - **Progressive Growing of GANs for Improved Quality, Stability, and Variation** (2018), Samuli Laine [[pdf]](https://arxiv.org/abs/1710.10196)
+- **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric** (2018), Richard Zhang [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf)
 - **Variational Inference: A Review for Statisticians** (2018), David M. Blei [[pdf]](https://arxiv.org/pdf/1601.00670.pdf)
 - **Wasserstein Auto-Encoders** (2018), Ilya Tolstikhin [[pdf]](https://arxiv.org/abs/1711.01558)
 - **Adversarially Regularized Autoencoders** (2017), Junbo Zhao [[pdf]](https://arxiv.org/abs/1706.04223)
